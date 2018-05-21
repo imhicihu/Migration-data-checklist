@@ -1,3 +1,4 @@
+* Verify if the computer is _under_ password. The same goes for Windows session(s)
 * Verify the health of the disk drive, then defrag it with [Defragler](https://www.ccleaner.com/defraggler)
 * Verify the health of the hard disk, then defrag it with [Defragler](https://www.ccleaner.com/defraggler)
 * Verify the health of the pen drive, then defrag it with [Defragler](https://www.ccleaner.com/defraggler)
