@@ -11,12 +11,10 @@ Good practices on migrate data between devices or hosts. A kind of "good practic
 ### How do I get set up? ###
 
 * Summary of set up
-    - 
+    - Check [Checklist.md](https://bitbucket.org/imhicihu/migration-data-checklist/src/Checklist.md]
 * Configuration
     - 
 * Dependencies
-    - 
-* Database configuration
     - 
 * How to run tests
     - 
@@ -42,7 +40,6 @@ Good practices on migrate data between devices or hosts. A kind of "good practic
     - Contact `imhicihu` at `gmail` dot `com`
 * Other community or team contact
     - Contact is _enable_ on the [board](https://bitbucket.org/imhicihu/XXXXXXXXXXXX/addon/trello/trello-board) of this repo. (You need a [Trello](https://trello.com/) account)
-
 
 ## Legal ##
 
