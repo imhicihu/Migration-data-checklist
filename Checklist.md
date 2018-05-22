@@ -1,6 +1,6 @@
 * Verify (and fix) any erroneous computer's date & time
 * Verify status of internal battery
-* Attach every involeved device in the procedure to a UPS, to prevent power failure
+* Attach every involved device in the procedure to a [UPS](https://en.wikipedia.org/wiki/Uninterruptible_power_supply), to prevent power failure
 * Verify if the computer is _under_ password. The same goes for _inner_ Windows session(s)
 * Verify the health of the disk drive, then defrag it with [Defragler](https://www.ccleaner.com/defraggler)
 * Verify the health of the hard disk, then defrag it with [Defragler](https://www.ccleaner.com/defraggler)
