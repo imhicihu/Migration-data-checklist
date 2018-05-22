@@ -13,7 +13,7 @@ Good practices on migrate data between devices or hosts. A kind of "good practic
 * Summary of set up
     - Check [Checklist.md](https://bitbucket.org/imhicihu/migration-data-checklist/src/6100558501e80c29a51011bd029df48b8de2c5c8/Checklist.md?at=master&fileviewer=file-view-default)
 * Configuration
-    - 
+    - _On process_
 * Dependencies
     - Check [Colophon.md](https://bitbucket.org/imhicihu/migration-data-checklist/src/951b9847c4d8b1cb57e1627d8e88ad26ec31f06f/Colophon.md?at=master)
 * Deployment instructions
@@ -22,15 +22,6 @@ Good practices on migrate data between devices or hosts. A kind of "good practic
 ### Issues ###
 
 * Check them on [here](https://bitbucket.org/imhicihu/migration-data-checklist/issues) 
-
-### Contribution guidelines ###
-
-* Writing tests
-    - 
-* Code review
-    - 
-* Other guidelines
-    - 
 
 ### Who do I talk to? ###
 
