@@ -5,7 +5,7 @@ Good practices on migrate data between devices or hosts. A kind of "good practic
 ### What is this repository for? ###
 
 * Quick summary
-    - Checklist to migrate data between operating systems and between devices
+    - Checklist to migrate data between operating systems and/or between devices
 * Version 1.01
 
 ### How do I get set up? ###
@@ -15,11 +15,9 @@ Good practices on migrate data between devices or hosts. A kind of "good practic
 * Configuration
     - 
 * Dependencies
-    - 
-* How to run tests
-    - 
+    - Check Colophon.md](https://bitbucket.org/imhicihu/migration-data-checklist/src/951b9847c4d8b1cb57e1627d8e88ad26ec31f06f/Colophon.md?at=master)
 * Deployment instructions
-    - 
+    - Once checked [Checklist.md](https://bitbucket.org/imhicihu/migration-data-checklist/src/6100558501e80c29a51011bd029df48b8de2c5c8/Checklist.md?at=master&fileviewer=file-view-default) deploy your strategy according your goals. Creativity and knowledge meets at this point to _solve_ this situation. 
 
 ### Issues ###
 
