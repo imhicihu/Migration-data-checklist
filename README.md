@@ -21,7 +21,11 @@ Good practices on migrate data between devices or hosts. A kind of "good practic
 
 ### Issues ###
 
-* Check them on [here](https://bitbucket.org/imhicihu/migration-data-checklist/issues) 
+* Check them on [here](https://bitbucket.org/imhicihu/migration-data-checklist/issues)
+
+### Changelog ###
+
+* Please check the [Commits](https://bitbucket.org/imhicihu/migration-data-checklist/commits/) section for the current status
 
 ### Who do I talk to? ###
 
