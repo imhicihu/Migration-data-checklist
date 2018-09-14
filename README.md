@@ -1,4 +1,9 @@
-# Migration data (checklist)
+![stability-wip](https://img.shields.io/badge/stability-work_in_progress-lightgrey.svg)
+![stability-wip](https://img.shields.io/badge/Internal%20use%3A-stable-green.svg)
+
+# Rationale #
+
+### Migration data (checklist) ###
 
 Good practices on migrate data between devices or hosts. A kind of "good practices" to automatize procedures and quick-actions
 
