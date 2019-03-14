@@ -3,8 +3,6 @@
 * Hardware
     - usb pen drive
     - portable hard disk
-    - 
-    - 
 * Software
     - Ccleaner
     - [ImgBurn](http://www.imgburn.com/): CD/DVD/DVD/Blu-ray burning application
