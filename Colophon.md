@@ -10,6 +10,7 @@
     - Duplicati
     - Rufus
     - [CloneApp](http://www.mirinsoft.com/index.php/download/viewdownload/39-cloneapp/180-cloneapp-portable)
+    - [Munki](https://www.munki.org/munki/): installation/uninstallation automated of MacOSX software
 
 ## Legal ##
 
