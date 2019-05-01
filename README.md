@@ -45,4 +45,4 @@ Good practices on migrate data between devices or hosts. A kind of "good practic
 
 ### Licence ###
 
-* The content of this project itself is licensed under the {WITHOUT DEFINITION YET}
+* The content of this project itself is licensed under the ![MIT Licence](https://img.shields.io/badge/Llicence-MIT-brightgreen.svg)
