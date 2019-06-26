@@ -19,5 +19,5 @@
 * Along the process of making iso images in Windows environments, some warns will be shown:
     - maximum filename length in NTFS formatted hard drives (Windows XP and Windows Vista): 260 characters as it fullest. See this [Microsoft Report](https://docs.microsoft.com/en-us/dotnet/api/system.io.pathtoolongexception?redirectedfrom=MSDN&view=netframework-4.8).
     - In Windows 10, the maximum filename length can be overriden it offers an option to ignore the `MAX_PATH` issue by overriding a group policy entry enabling NTFS long paths under `Computer Configuration` -> `Admin Templates` -> `System` -> `FileSystem:` –
-    
+    - ![graphics.jpg](https://bitbucket.org/repo/jgXpxpx/images/985462788-suggested-structure.png)
 * Backup to a "healthy" external disk drive, pendrives, dvd or blu-ray discs
