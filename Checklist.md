@@ -1,8 +1,9 @@
+# Procedures (for internal use)
 * Foresee the *worst* scenario as possible
 * Verify schedule between both parties
 * Attach every involved device in the procedure to a [UPS](https://en.wikipedia.org/wiki/Uninterruptible_power_supply), to prevent power failure
 * Verify (and fix) any erroneous computer's date & time
-* Verify status of internal battery
+* Verify status of internal batteries (main & target computer)
 * Verify if the computer is _under_ password. The same goes for _internal_ Windows session(s)
 * Turn off the access to internet: 
      - turn off wifi connection 
@@ -14,8 +15,11 @@
 * Do a full scan with the antivirus on the operating system, files, _etc_. The same goes for the hard disk or pen drive
     - If there are _virus_: notify it!
 * Turn `off` `File sharing` during diagnostic, defrag or copy/move of files between devices
-* Turn `off` Windows's built-in `Firewall` during diagnostic, defrag or copy/move of files between devices
-* Turn `off` Windows's built-in `Notifications` during diagnostic, defrag or copy/move of files between devices
+* Turn `off` Microsoft Windows's built-in `Firewall` during diagnostic, defrag or copy/move of files between devices
+* Turn `off` Microsoft Windows's built-in `Notifications` during diagnostic, defrag or copy/move of files between devices
+* Turn `off` Microsoft Windows's built-in `Printer sharing` during diagnostic, defrag or copy/move of files between devices
+* Turn `off` Microsoft Windows's built-in `Remote login` during diagnostic, defrag or copy/move of files between devices
+* Turn `off` Microsoft Windows's built-in `Screen sharing` during diagnostic, defrag or copy/move of files between devices
 * For every browser installed and to enable the backup of bookmarks, passwords, custom settings:
     - create an account, _ie._ Mozilla Firefox offers this [portal](https://www.mozilla.org/en-US/firefox/accounts/) to sign-in, then you will can collect all the browsing's history, passwords, tabs opened in multiple devices, etc. Actually, every major browser in the market offers this feature: [Vivaldi](https://login.vivaldi.net/profile/), [Google Chrome](https://chrome.google.com/sync), [Opera](https://auth.opera.com/account/login), etc. In case of Safari the official method can be found [here](https://support.apple.com/en-us/HT203519#windows).  
 * Close all the software in memory or actually running during the procedure of copy/move files between devices
@@ -32,3 +36,7 @@
     - ![nested_folders.png](https://bitbucket.org/repo/jgXpxpx/images/2171080336-nested_folders.png)
 * Backup to a "healthy" external disk drive, pendrives, dvd or blu-ray discs
 * Backup custom settings (if it it possible) for those software that is *mandatory* to run in the target computer
+
+# Legal:
+* All other trademarks are the property of their respective owners.
+* Windows. Windows 10, Windows XP, Windows Vista are registered trademark of Microsoft Corporation in the United States and/or other countries.
