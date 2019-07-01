@@ -17,13 +17,13 @@ Good practices on migrate data between devices or hosts. A kind of "good practic
 ### How do I get set up? ###
 
 * Summary of set up
-    - Check [Checklist.md](https://bitbucket.org/imhicihu/migration-data-checklist/src/6100558501e80c29a51011bd029df48b8de2c5c8/Checklist.md?at=master&fileviewer=file-view-default)
+    - Check [Checklist.md](https://bitbucket.org/imhicihu/migration-data-checklist/src/master/Checklist.md)
 * Configuration
     - _On process_
 * Dependencies
-    - Check [Colophon.md](https://bitbucket.org/imhicihu/migration-data-checklist/src/6c6075bcabeef8e6369e32cca3d2804d54048422/Colophon.md?at=master&fileviewer=file-view-default)
+    - Check [Colophon.md](https://bitbucket.org/imhicihu/migration-data-checklist/src/master/Colophon.md)
 * Deployment instructions
-    - Once checked [Checklist.md](https://bitbucket.org/imhicihu/migration-data-checklist/src/6100558501e80c29a51011bd029df48b8de2c5c8/Checklist.md?at=master&fileviewer=file-view-default) deploy your strategy according your goals. Creativity and knowledge meets at this point to _solve_ this dilemma. 
+    - Once checked [Checklist.md](https://bitbucket.org/imhicihu/migration-data-checklist/src/master/Checklist.md) deploy your strategy according your hardware, time, schedule, goals. Creativity and knowledge meets at this point to _solve_ this dilemma. 
 
 ### Issues ###
 
@@ -46,4 +46,4 @@ Good practices on migrate data between devices or hosts. A kind of "good practic
 
 ### Licence ###
 
-* The content of this project itself is licensed under the ![MIT Licence](https://img.shields.io/badge/Llicence-MIT-brightgreen.svg)
+* The content of this project itself is licensed under the ![MIT Licence](https://bitbucket.org/repo/ekyaeEE/images/2049852260-MIT-license-green.png)
