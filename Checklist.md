@@ -1,5 +1,5 @@
 # Procedures (for internal use)
-* Foresee the [worst](#Worst-scenario) scenario as possible (main & target computer)
+* Foresee the [worst](##Worst-scenario) scenario as possible (main & target computer)
 * Verify technical status of every device that will be part of the backup process: hard disk, blu-ray recorder, dvd recorder, pen-drive.
 * Check the [speed of the hard disk](https://hdd.userbenchmark.com/Software): append time at discretion along the process, so verify time schedule between both parties
 * Attach every involved device in the procedure to a [UPS](https://en.wikipedia.org/wiki/Uninterruptible_power_supply), to prevent power failure
@@ -39,7 +39,7 @@
 * Backup custom settings (if it it possible) for those software that is *mandatory* to run in the target computer
 
 ## Worst-scenario
-* Boot from `Hirenâ€™s BootCD`. Then launch the `Mini-XP` option or the various backup tools built-in
+* Boot from `Hiren’s BootCD`. Then launch the `Mini-XP` option or the various backup tools built-in
 
 # Legal:
 * All other trademarks are the property of their respective owners.
