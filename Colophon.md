@@ -1,16 +1,19 @@
 ## Technical requeriments ##
 
 * Hardware
-    - usb pen drive
     - portable hard disk
+    - blu-ray/DVD recorder
+    - usb pen drive
 * Software
-    - System utilities
-         - Ccleaner
-         - Defragler
-         - Duplicati
+     - [Ccleaner](https://www.ccleaner.com/)
+     - [Defraggler](https://www.ccleaner.com/defraggler)
+     - [Daemon Tools lite](https://www.daemon-tools.cc/products/dtLite): virtual disc
+     - [HJSplit](http://www.hjsplit.org/): multipart zip processor
     - [ImgBurn](http://www.imgburn.com/): CD/DVD/DVD/Blu-ray burning application
-    - [Rufus](https://rufus.ie/): bootable USB drives
-    - [CloneApp](http://www.mirinsoft.com/index.php/download/viewdownload/39-cloneapp/180-cloneapp-portable)
+    - [IsoCreator](https://sourceforge.net/projects/iso-creator-cs/): creates ISO 9660 Joliet images
+    - [Rufus](https://rufus.ie/): bootable USB drives (in case of *worst* scenario as possible)
+    - [CloneApp](http://www.mirinsoft.com/index.php/download/viewdownload/39-cloneapp/180-cloneapp-portable): hard disk cloner
+    - [Hard disk benchmark](https://hdd.userbenchmark.com/Software): benchmarking hard disk drives
     - Install/uninstall automatization of chains of software
          - [Munki](https://www.munki.org/munki/): installation/uninstallation automated of MacOSX software
     - Hash validators
