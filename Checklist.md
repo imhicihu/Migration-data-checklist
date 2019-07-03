@@ -1,5 +1,5 @@
 # Procedures (for internal use)
-* Foresee the worst scenario as possible (main & target computer)
+* Foresee the worst scenario (vide *Worst scenario* section below) as possible (main & target computer)
 * Verify technical status of every device that will be part of the backup process: hard disk, blu-ray recorder, dvd recorder, pen-drive.
 * Check the [speed of the hard disk](https://hdd.userbenchmark.com/Software): append time at discretion along the process, so verify time schedule between both parties
 * Attach every involved device in the procedure to a [UPS](https://en.wikipedia.org/wiki/Uninterruptible_power_supply), to prevent power failure
