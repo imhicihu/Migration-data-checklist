@@ -10,4 +10,8 @@
 * Copy and paste from one pc to another pc, portable hard drive, pen drive, dvd or blu-ray disc
 
 ## Importing procedures
-* 
+* Launch MS Outlook application. Go to the `File` tab and click `Open & Export` > `Import/Export`
+* In the `Import and Export Wizard`, click on `Import from another program or file`, and hit `Next`
+* Now select Outlook data file (`.pst`) and click `Next`
+* Browse and choose your `PST` file. Under `Options` select the choice that applies to your case
+* Select the folder that you want to import and also check the `Include subfolders` field. Then press `Finish`
