@@ -7,8 +7,8 @@
 * Verify status of internal batteries (main & target computer)
 * Verify if the computer is _under_ password. The same goes for _internal_ Windows session(s) (main & target computer)
 * Turn off the access to internet: 
-     - turn off wifi connection 
-     - detach LAN access 
+     - turn `off` wifi connection 
+     - detach any LAN access 
 * Verify the health of the disk drive, then defrag it. Both actions can be done with [Defragler](https://www.ccleaner.com/defraggler)
 * Verify the health of the external hard disk, then defrag it. Both actions can be done with [Defragler](https://www.ccleaner.com/defraggler)
 * Verify the health of the pen drive, then defrag it. Both actions can be done with [Defragler](https://www.ccleaner.com/defraggler)
@@ -28,8 +28,9 @@
 * Install backup software to migrate between both operating systems or computers
 * Verify software compatibility between different operating systems, with a _focus_ between 32 vs 64 bits systems. So, Some older software demands only 32 bits environments. So, an option is create a custom [Docker image](https://www.howtoforge.com/tutorial/building-and-publishing-custom-docker-images/) or some kind of _sandboxed_ virtual environment: [VirtualBox](https://www.virtualbox.org/), [Vagrant](https://www.vagrantup.com/), [Windows XP Mode](https://www.microsoft.com/en-us/download/details.aspx?id=8002), etc.
 * Verify compatibility between file structure acording operating systems's
+* Verify that your email application don't get files corrupted. Then, [apply this procedures](https://bitbucket.org/imhicihu/migration-data-checklist/src/master/outlook.md) to backup your email account(s)
 * Verify hard drive format status: `NTFS` or `FAT`
-* Create `.ISO` images for folders that is *mandatory* to maintain the framework of folders (ie. folders nested inside another folders). In a nutsell, create full _mirror_ images of folders and files (even with _hidden_ attributes)
+* Create `.ISO` images for any folder(s) that is *mandatory* to maintain the framework of folders (_ie._ folders nested inside another folders). In a nutsell, create full _mirror_ images of folders and files (even with _hidden_ attributes)
 * Along the process of making iso images in Windows environments, some warns will be shown:
     - maximum filename length in NTFS formatted hard drives (Windows XP and Windows Vista): 260 characters as it fullest. See this [Microsoft Report](https://docs.microsoft.com/en-us/dotnet/api/system.io.pathtoolongexception?redirectedfrom=MSDN&view=netframework-4.8).
     - In Windows 10, the maximum filename length can be overriden it offers an option to ignore the `MAX_PATH` issue by overriding a group policy entry enabling NTFS long paths under `Computer Configuration` -> `Admin Templates` -> `System` -> `FileSystem:`
@@ -43,4 +44,4 @@
 
 # Legal:
 * All other trademarks are the property of their respective owners.
-* Windows. Windows 10, Windows XP, Windows Vista are registered trademark of Microsoft Corporation in the United States and/or other countries.
+* Windows, Windows 10, Windows XP, Windows Vista are registered trademark of Microsoft Corporation in the United States and/or other countries.
