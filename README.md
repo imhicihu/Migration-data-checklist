@@ -1,5 +1,5 @@
-![stability-wip](https://img.shields.io/badge/stability-work_in_progress-lightgrey.svg)
-![stability-wip](https://img.shields.io/badge/Internal%20use%3A-stable-green.svg)
+![stability-wip](https://bitbucket.org/repo/ekyaeEE/images/477405737-stability_work_in_progress.png)
+![issues-open](https://bitbucket.org/repo/ekyaeEE/images/2944199103-issues_open.png)
 
 # Rationale #
 
@@ -36,7 +36,7 @@ Good practices on migrate data between devices or hosts. A kind of "good practic
 * Repo owner or admin
     - Contact `imhicihu` at `gmail` dot `com`
 * Other community or team contact
-    - Contact is _enable_ on the [board](https://bitbucket.org/imhicihu/XXXXXXXXXXXX/addon/trello/trello-board) of this repo. (You need a [Trello](https://trello.com/) account)
+    - Contact is _enable_ on the [board](https://bitbucket.org/imhicihu/migration-data-checklist/addon/trello/trello-board) of this repo. (You need a [Trello](https://trello.com/) account)
 
 ## Legal ##
 
