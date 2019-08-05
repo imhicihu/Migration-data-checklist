@@ -23,6 +23,12 @@ Good practices on migrate data between devices or hosts. A kind of "good practic
 * Deployment instructions
     - Once checked [Checklist.md](https://bitbucket.org/imhicihu/migration-data-checklist/src/master/Checklist.md) deploy your strategy according your hardware, time, schedule, goals. Creativity and knowledge meets at this point to _solve_ this dilemma. 
 
+### Related repositories ###
+
+* Some repositories linked with this project:
+     - [Focus Group (2016)](https://bitbucket.org/imhicihu/focus-group-2016/src/default/)
+     - [Migration data between different MacOS environments (Checklist)](https://bitbucket.org/imhicihu/migration-data-between-different-macos-environments-checklist/src/master/)
+     
 ### Issues ###
 
 * Check them on [here](https://bitbucket.org/imhicihu/migration-data-checklist/issues)
