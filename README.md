@@ -5,7 +5,8 @@
 
 ### Migration data (checklist) ###
 
-Good practices on migrate data between devices or hosts. A kind of "good practices" to automatize procedures and quick-actions
+* Good practices on migrate data between devices or hosts. A kind of "good practices" to automatize procedures and quick-actions
+* This repository just hold our datums gathered, checklist _et alia_ and begin and end if fulfill our needs, priorities and standards. Anyway, *one caveat*: "There is no responsability for data loss".
 ![dualbrowser](https://bitbucket.org/repo/jgXpxpx/images/3083540165-dual_browser.jpg)
 
 ### What is this repository for? ###
