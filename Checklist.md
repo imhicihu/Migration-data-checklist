@@ -1,12 +1,14 @@
 # Procedures (for internal use)
 * Foresee the worst scenario (vide *Worst scenario* section below) as possible (main & target computer)
 * Verify technical status of every device that will be part of the backup process: hard disk, blu-ray recorder, dvd recorder, pen-drive.
+* Verify portable hard disk drive free space. Then, check if that capacity meets the space needed the backup planned. 
+* Verify that any device selected for the backup purposes is formatted in the `NTFS` format
 * Check the [speed of the hard disk](https://hdd.userbenchmark.com/Software): append time at discretion along the process, so verify time schedule between both parties
 * Attach every involved device in the procedure to a [UPS](https://en.wikipedia.org/wiki/Uninterruptible_power_supply), to prevent power failure
 * Verify (and fix) any erroneous computer's date & time
 * Verify status of internal batteries (main & target computer)
 * Verify if the computer is _under_ password. The same goes for _internal_ Windows session(s) (main & target computer)
-* Turn off the access to internet: 
+* Turn `off` the access to internet: 
      - turn `off` wifi connection 
      - detach any LAN access 
 * Verify the health of the disk drive, then defrag it. Both actions can be done with [Defragler](https://www.ccleaner.com/defraggler)
