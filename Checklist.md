@@ -2,7 +2,7 @@
 * Foresee the worst scenario (vide *Worst scenario* section below) as possible (main & target computer)
 * Verify technical status of every device that will be part of the backup process: hard disk, blu-ray recorder, dvd recorder, pen-drive.
 * Verify portable hard disk drive free space. Then, check if that capacity meets the space needed the backup planned. 
-* Verify that any device selected for the backup purposes is formatted in the `NTFS` format
+* Verify that any device selected for backup purposes is being formatted in the `NTFS` format
 * Check the [speed of the hard disk](https://hdd.userbenchmark.com/Software): append time at discretion along the process, so verify time schedule between both parties
 * Attach every involved device in the procedure to a [UPS](https://en.wikipedia.org/wiki/Uninterruptible_power_supply), to prevent power failure
 * Verify (and fix) any erroneous computer's date & time
@@ -28,10 +28,10 @@
 * Close all the software in memory or actually running during the procedure of copy/move files between devices
 * Verify backup's software compatibility between operating systems 
 * Install backup software to migrate between both operating systems or computers
-* Verify software compatibility between different operating systems, with a _focus_ between 32 vs 64 bits systems. So, Some older software demands only 32 bits environments. So, an option is create a custom [Docker image](https://www.howtoforge.com/tutorial/building-and-publishing-custom-docker-images/) or some kind of _sandboxed_ virtual environment: [VirtualBox](https://www.virtualbox.org/), [Vagrant](https://www.vagrantup.com/), [Windows XP Mode](https://www.microsoft.com/en-us/download/details.aspx?id=8002), etc.
-* Verify compatibility between file structure acording operating systems's
+* Verify software compatibility between different operating systems, with a _focus_ between 32 vs 64 bits systems. So, some older software demands only 32 bits environments. So, an option is create a some-kind-of custom [Docker image](https://www.howtoforge.com/tutorial/building-and-publishing-custom-docker-images/) or some kind of _sandboxed_ virtual environment: [VirtualBox](https://www.virtualbox.org/), [Vagrant](https://www.vagrantup.com/), [Windows XP Mode](https://www.microsoft.com/en-us/download/details.aspx?id=8002), etc.
+* Verify compatibility between file structure according operating systems's
 * Verify that your email application don't get files corrupted. Then, [apply this procedures](https://bitbucket.org/imhicihu/migration-data-checklist/src/master/outlook.md) to backup your email account(s)
-* Verify hard drive format status: `NTFS` or `FAT`
+* Verify hard drive format status: `NTFS` or `FAT32`
 * Create `.ISO` images for any folder(s) that is *mandatory* to maintain the framework of folders (_ie._ folders nested inside another folders). In a nutsell, create full _mirror_ images of folders and files (even with _hidden_ attributes)
 * Along the process of making iso images in Windows environments, some warns will be shown:
     - maximum filename length in NTFS formatted hard drives (Windows XP and Windows Vista): 260 characters as it fullest. See this [Microsoft Report](https://docs.microsoft.com/en-us/dotnet/api/system.io.pathtoolongexception?redirectedfrom=MSDN&view=netframework-4.8).
