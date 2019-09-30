@@ -29,3 +29,28 @@
 * Android emulators
 	- [BlueStacks](https://www.bluestacks.com/bluestacks-android-n.html): android emulator
 	- [GenyMotion](https://www.genymotion.com/desktop/): android emulator
+* GIS
+	- [QGIS](https://qgis.org/en/site/)
+* Office automation
+	- [LibreOffice](https://www.libreoffice.org/download/download/)
+* PDF Viewer
+	- [SumatraPDF](https://www.sumatrapdfreader.org/download.html): with capabilities of become a EPUB, MOBI, FB2, CHM, XPS, DjVu file format reader too.
+	- [Okular](https://okular.kde.org): with capabilities of become a EPUB, MOBI, FB2, CHM, XPS, DjVu file format reader too.
+* PDF editor
+	- [PDFedit](http://pdfedit.cz/en/pdfedit_windows.html)
+	- [LibreOffice Draw PDF editor](https://www.libreoffice.org/download/download/)
+	- [Apache OpenOffice Draw](https://www.openoffice.org/es/producto/draw.html)
+	- [PDFSam](https://pdfsam.org/es/download-pdfsam-basic/)
+* Vector image editor
+	- [Inkscape](https://inkscape.org/release/)
+* 3D editing
+	- [Meshlab](http://www.meshlab.net)
+	- [Blender](https://www.blender.org)
+* Image enhancer & editor
+	- [Dstretch](http://www.dstretch.com)
+	- [GIMP](https://www.gimp.org/)
+	
+	
+	
+### Notes:
+* Always, the preferred versions are those labeled as [x64](https://en.wikipedia.org/wiki/64-bit_computing)
