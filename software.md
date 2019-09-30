@@ -63,6 +63,8 @@
 * 3D editing
 	- [Meshlab](http://www.meshlab.net)
 	- [Blender](https://www.blender.org)
+* 3d file viewer
+	- [Clay-viewer](https://github.com/pissang/clay-viewer/releases)
 * Image enhancer & editor
 	- [Dstretch](http://www.dstretch.com)
 	- [GIMP](https://www.gimp.org/)
