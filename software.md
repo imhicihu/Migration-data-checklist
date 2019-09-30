@@ -1,0 +1,17 @@
+## Software to install (pc counterpart)
+- [Duplicati](https://www.duplicati.com/): backup software with multiple options: schedule tasks, data encryption, etc.
+- [Ccleaner](https://www.ccleaner.com/)
+- [Defraggler](https://www.ccleaner.com/defraggler)
+- [Daemon Tools lite](https://www.daemon-tools.cc/products/dtLite): virtual disc
+- [HJSplit](http://www.hjsplit.org/): multipart zip processor
+- [ImgBurn](http://www.imgburn.com/): CD/DVD/DVD/Blu-ray burning application
+- [IsoCreator](https://sourceforge.net/projects/iso-creator-cs/): creates ISO 9660 Joliet images
+- [Speccy](https://www.ccleaner.com/speccy): gather data about hardware
+- [Dropbox](https://dropbox.com/): cloud hosting
+- [Google Chrome](https://www.google.com/intl/es-419/chrome/): internet browser
+- [Mozilla Firefox](https://www.mozilla.org/es-AR/firefox/): internet browser
+- [Vivaldi](https://vivaldi.com/): internet browser
+- [Opera](https://www.opera.com/es): internet browser
+- [Oracle VirtualBox](https://www.virtualbox.org): virtualization of operating systems, _et. al._
+- [Windows XP Mode](https://www.microsoft.com/es-ar/download/details.aspx?id=8002): virtual Windows XP on Windows 7
+- 
