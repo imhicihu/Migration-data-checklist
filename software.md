@@ -64,10 +64,10 @@
 	- [PaperWork](https://openpaper.work/en-us/)
 * Note taking
 	- [Evernote](https://evernote.com): offline and online mode. Cloud based.
-	- Notepad++](https://notepad-plus-plus.org/downloads/)
+	- [Notepad++](https://notepad-plus-plus.org/downloads/)
 * Video calls
 	- [Skype](https://www.skype.com/es/get-skype/)
-	- Zoom.us](https://zoom.us/download#client_4meeting)
+	- [Zoom.us](https://zoom.us/download#client_4meeting)
 
 	
 	
