@@ -8,9 +8,10 @@
 * Recover deleted files
 	- [Recuva](https://www.ccleaner.com/recuva)
 * Virtual drive
-	- [Daemon Tools _lite_](https://www.daemon-tools.cc/products/dtLite): virtual disc
+	- [Daemon Tools _lite_](https://www.daemon-tools.cc/products/dtLite): virtual disc drive
 * Compressors
-	- [HJSplit](http://www.hjsplit.org/): multipart zip processor
+	- [7-Zip](https://www.7-zip.org/)
+	- [HJSplit](https://www.usitility.com/es/hjsplit/): multipart zip processor
 * Data backup
 	- [ImgBurn](http://www.imgburn.com/): CD/DVD/DVD/Blu-ray burning application
 	- [IsoCreator](https://sourceforge.net/projects/iso-creator-cs/): creates ISO 9660 Joliet images
@@ -29,10 +30,13 @@
 * Android emulators
 	- [BlueStacks](https://www.bluestacks.com/bluestacks-android-n.html): android emulator
 	- [GenyMotion](https://www.genymotion.com/desktop/): android emulator
-* GIS
+* GIS & maps
 	- [QGIS](https://qgis.org/en/site/)
+	- [Google Earth](https://www.google.com/intl/es-419_ALL/earth/versions/#earth-pro)
 * Office automation
 	- [LibreOffice](https://www.libreoffice.org/download/download/)
+* Text converter
+	- [Pandoc](https://pandoc.org/installing.html): universal text converter
 * PDF Viewer
 	- [SumatraPDF](https://www.sumatrapdfreader.org/download.html): with capabilities of become a EPUB, MOBI, FB2, CHM, XPS, DjVu file format reader too.
 	- [Okular](https://okular.kde.org): with capabilities of become a EPUB, MOBI, FB2, CHM, XPS, DjVu file format reader too.
@@ -49,8 +53,17 @@
 * Image enhancer & editor
 	- [Dstretch](http://www.dstretch.com)
 	- [GIMP](https://www.gimp.org/)
+* Document management
+	- [PaperWork](https://openpaper.work/en-us/)
+* Note taking
+	- [Evernote](https://evernote.com)
+
 	
 	
 	
-### Notes:
+## Notes ##
 * Always, the preferred versions are those labeled as [x64](https://en.wikipedia.org/wiki/64-bit_computing)
+
+## Legal ##
+
+* All trademarks are the property of their respective owners.
