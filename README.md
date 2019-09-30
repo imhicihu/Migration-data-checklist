@@ -19,6 +19,7 @@
 
 * Summary of set up
     - Check [Checklist.md](https://bitbucket.org/imhicihu/migration-data-checklist/src/master/Checklist.md)
+    - Check [Software.md]((https://bitbucket.org/imhicihu/migration-data-checklist/src/master/software.md)
 * Configuration
     - Check [Colophon.md](https://bitbucket.org/imhicihu/migration-data-checklist/src/master/Colophon.md)
 * Deployment instructions
