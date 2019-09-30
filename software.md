@@ -17,6 +17,10 @@
 	- [IsoCreator](https://sourceforge.net/projects/iso-creator-cs/): creates ISO 9660 Joliet images
 * Data collector
 	- [Speccy](https://www.ccleaner.com/speccy): data collected about hardware
+* Video viewer
+	- [VLC](http://www.videolan.org)
+* RAW viewer
+	- [Filmulator](https://github.com/CarVac/filmulator-gui/releases)	
 * Cloud hosting
 	- [Dropbox](https://dropbox.com/): cloud hosting
 * Browsers
@@ -54,6 +58,8 @@
 	- [Inkscape](https://inkscape.org/release/)
 * Raster image viewer
 	- [Xnview MP](https://www.xnview.com/en/xnviewmp/)
+* Font Management
+	- [Fontba.se](https://fontba.se/)
 * 3D editing
 	- [Meshlab](http://www.meshlab.net)
 	- [Blender](https://www.blender.org)
@@ -68,7 +74,10 @@
 * Video calls
 	- [Skype](https://www.skype.com/es/get-skype/)
 	- [Zoom.us](https://zoom.us/download#client_4meeting)
-
+* Bibliography searcher
+	- [ScienceFair](http://sciencefair-app.com/)
+* Data validator 
+	- [DataProofer](https://github.com/dataproofer/Dataproofer/releases)
 	
 	
 	
