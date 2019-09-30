@@ -30,7 +30,8 @@
 	- [Opera](https://www.opera.com/es): internet browser
 * Virtualization
 	- [Oracle VirtualBox](https://www.virtualbox.org): virtualization of operating systems, _et. al._
-	- [Windows XP Mode](https://www.microsoft.com/es-ar/download/details.aspx?id=8002): virtual Windows XP on Windows 7
+	- [Virtualbox extension pack](https://www.virtualbox.org/wiki/Downloads)
+	- [Windows XP Mode for Windows 7](https://www.microsoft.com/es-ar/download/details.aspx?id=8002): virtual Windows XP on Windows 7
 * Android emulators
 	- [BlueStacks](https://www.bluestacks.com/bluestacks-android-n.html): android emulator
 	- [GenyMotion](https://www.genymotion.com/desktop/): android emulator
@@ -80,8 +81,8 @@
 	- [ScienceFair](http://sciencefair-app.com/)
 * Data validator 
 	- [DataProofer](https://github.com/dataproofer/Dataproofer/releases)
-	
-	
+	- [Talent open studio for data quality](https://www.talend.com/products/data-quality/data-quality-open-studio/)
+
 	
 ## Notes ##
 * Always, the preferred versions are those labeled as [x64](https://en.wikipedia.org/wiki/64-bit_computing)
