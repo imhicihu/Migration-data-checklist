@@ -37,6 +37,11 @@
 	- [LibreOffice](https://www.libreoffice.org/download/download/)
 * Text converter
 	- [Pandoc](https://pandoc.org/installing.html): universal text converter
+* PDF virtual printer
+	- [doPDF](https://www.dopdf.com/download.html)
+	- [PDFCreator](https://www.pdfforge.org/pdfcreator/download)
+* PDF Reader
+	- [Foxit Reader](https://www.foxitsoftware.com/downloads/#Foxit-Reader/)
 * PDF Viewer
 	- [SumatraPDF](https://www.sumatrapdfreader.org/download.html): with capabilities of become a EPUB, MOBI, FB2, CHM, XPS, DjVu file format reader too.
 	- [Okular](https://okular.kde.org): with capabilities of become a EPUB, MOBI, FB2, CHM, XPS, DjVu file format reader too.
@@ -47,6 +52,8 @@
 	- [PDFSam](https://pdfsam.org/es/download-pdfsam-basic/)
 * Vector image editor
 	- [Inkscape](https://inkscape.org/release/)
+* Raster image viewer
+	- [Xnview MP](https://www.xnview.com/en/xnviewmp/)
 * 3D editing
 	- [Meshlab](http://www.meshlab.net)
 	- [Blender](https://www.blender.org)
@@ -56,7 +63,11 @@
 * Document management
 	- [PaperWork](https://openpaper.work/en-us/)
 * Note taking
-	- [Evernote](https://evernote.com)
+	- [Evernote](https://evernote.com): offline and online mode. Cloud based.
+	- Notepad++](https://notepad-plus-plus.org/downloads/)
+* Video calls
+	- [Skype](https://www.skype.com/es/get-skype/)
+	- Zoom.us](https://zoom.us/download#client_4meeting)
 
 	
 	
