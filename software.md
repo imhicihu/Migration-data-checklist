@@ -14,7 +14,9 @@
 	- [HJSplit](https://www.usitility.com/es/hjsplit/): multipart zip processor
 * Data backup
 	- [ImgBurn](http://www.imgburn.com/): CD/DVD/DVD/Blu-ray burning application
+	- [Free ISO Creator](http://www.minidvdsoft.com/isocreator/download_free_iso_creator.html): create ISO image from your files and folders
 	- [IsoCreator](https://sourceforge.net/projects/iso-creator-cs/): creates ISO 9660 Joliet images
+	- [Iso Recorder](http://isorecorder.alexfeinman.com/#/): creates ISO 9660 Joliet images
 	- [WinIso](http://www.winiso.com/products/winiso-free.html)
 * Data collector
 	- [Speccy](https://www.ccleaner.com/speccy): data collected about hardware
