@@ -1,4 +1,4 @@
-## Software to install (mostly Microsoft WindowsÂ® environment)
+## Software to install (mostly Microsoft Windows® environment)
 * Backup
 	- [Duplicati](https://www.duplicati.com/): backup software with multiple options: schedule tasks, data encryption, etc.
 * Windows cleaning
@@ -79,6 +79,7 @@
 * Image enhancer & editor
 	- [Dstretch](http://www.dstretch.com)
 	- [GIMP](https://www.gimp.org/)
+	- [ImageMagick](https://imagemagick.org/script/download.php#windows): 
 * Document management
 	- [PaperWork](https://openpaper.work/en-us/)
 * Note taking
@@ -101,8 +102,17 @@
 * Statistics
 	- [R](http://cran.r-project.org/mirrors.html)
 	- [R Studio](https://rstudio.com/products/rstudio/download/)
+* Maps treatment
+	- [cGPSMapper](https://www.gpsfiledepot.com/tools/cgpsmapper.php)
+	- [GMapTool](https://www.gmaptool.eu/en/content/windows-setup): program for splitting and merging maps in Garmin format
+	- [GeoViewer](https://www.extensis.com/download-geoviewer): Display raster imagery, LiDAR point clouds, vector overlays, and MrSID files
 * Miscellaneous
 	- [iTunes](https://www.apple.com/la/itunes/)
+	- [Adobe Flash player](https://get.adobe.com/es/flashplayer/)
+	- [Rufus](https://rufus.ie/): create bootable usb drives
+	- [Java](https://www.java.com/es/download/)
+	- [Microsoft .NET Framework 4.5](https://www.microsoft.com/es-ar/download/details.aspx?id=30653)
+
 
 	
 ## Notes ##
