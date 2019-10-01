@@ -10,7 +10,9 @@
 	- [Recuva](https://www.ccleaner.com/recuva)
 * Hard disk cloner
 	- [Cloneapp](http://www.mirinsoft.com/download/category/2-cloneapp): backs up Application Settings of Windows programs
-	- [CloneApp UA](http://www.mirinsoft.com/download/category/13-ca-ua): backs up Application Settings of Universal apps (UWP) 
+	- [CloneApp UA](http://www.mirinsoft.com/download/category/13-ca-ua): backs up Application Settings of Universal apps (UWP)
+* Clipboard
+	- [Ditto Clipboard](https://www.microsoft.com/en-us/p/ditto-clipboard/9nblggh3zbjq?rtc=1&ranMID=24542&ranEAID=TnL5HPStwNw&ranSiteID=TnL5HPStwNw-xUPCRvXAQestQG5TTcXtoQ&epi=TnL5HPStwNw-xUPCRvXAQestQG5TTcXtoQ&irgwc=1&OCID=AID2000142_aff_7593_1243925&tduid=(ir__wwnolxiwuskfryltkk0sohzj0e2xg3nagvo3xfww00)(7593)(1243925)(TnL5HPStwNw-xUPCRvXAQestQG5TTcXtoQ)()&irclickid=_wwnolxiwuskfryltkk0sohzj0e2xg3nagvo3xfww00&activetab=pivot:overviewtab)
 * Virtual drive
 	- [Daemon Tools _lite_](https://www.daemon-tools.cc/products/dtLite): virtual disc drive
 * Compressors
@@ -131,6 +133,8 @@
 	- [USB safely remove](https://quickandeasysoftware.net/downloads?download=USBDiskEjector1.3.0.6.zip&progname=USB+Disk+Ejector)
 	- [File renamer](http://www.joejoesoft.com/vcms/108/)
 	- [Wox](https://github.com/Wox-launcher/Wox/releases): application launcher
+	- [Dependency walker](http://www.dependencywalker.com/)
+	- [The PC Decrapifier](https://www.pcdecrapifier.com/)
 	
 ## Notes ##
 * Always, the preferred versions are those labeled as [x64](https://en.wikipedia.org/wiki/64-bit_computing)
