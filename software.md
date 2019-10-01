@@ -112,6 +112,7 @@
 	- [Rufus](https://rufus.ie/): create bootable usb drives
 	- [Java](https://www.java.com/es/download/)
 	- [Microsoft .NET Framework 4.5](https://www.microsoft.com/es-ar/download/details.aspx?id=30653)
+	- [USB safely remove](https://quickandeasysoftware.net/downloads?download=USBDiskEjector1.3.0.6.zip&progname=USB+Disk+Ejector)
 
 
 	
