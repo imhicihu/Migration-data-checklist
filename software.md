@@ -79,7 +79,9 @@
 * Image enhancer & editor
 	- [Dstretch](http://www.dstretch.com)
 	- [GIMP](https://www.gimp.org/)
-	- [ImageMagick](https://imagemagick.org/script/download.php#windows): 
+	- [ImageMagick](https://imagemagick.org/script/download.php#windows)
+	- [Dark Table](https://www.darktable.org/install/#windows): image treatment, enhancer in a non destructive way
+	- [DigiKam](https://www.digikam.org/download/): photo management
 * Document management
 	- [PaperWork](https://openpaper.work/en-us/)
 * Note taking
@@ -110,6 +112,7 @@
 	- [iTunes](https://www.apple.com/la/itunes/)
 	- [Adobe Flash player](https://get.adobe.com/es/flashplayer/)
 	- [Rufus](https://rufus.ie/): create bootable usb drives
+	- [File Optimizer](https://sourceforge.net/projects/nikkhokkho/files/latest/download)
 	- [Java](https://www.java.com/es/download/)
 	- [Microsoft .NET Framework 4.5](https://www.microsoft.com/es-ar/download/details.aspx?id=30653)
 	- [USB safely remove](https://quickandeasysoftware.net/downloads?download=USBDiskEjector1.3.0.6.zip&progname=USB+Disk+Ejector)
