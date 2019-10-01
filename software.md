@@ -80,14 +80,21 @@
 * Note taking
 	- [Evernote](https://evernote.com): offline and online mode. Cloud based.
 	- [Notepad++](https://notepad-plus-plus.org/downloads/)
+* FTP
+	- [FileZilla](https://filezilla-project.org/)
 * Video calls
 	- [Skype](https://www.skype.com/es/get-skype/)
 	- [Zoom.us](https://zoom.us/download#client_4meeting)
+* Network tools
+	- [Wireshark](https://www.wireshark.org/#download)
 * Bibliography searcher
 	- [ScienceFair](http://sciencefair-app.com/)
 * Data validator 
 	- [DataProofer](https://github.com/dataproofer/Dataproofer/releases)
 	- [Talent open studio for data quality](https://www.talend.com/products/data-quality/data-quality-open-studio/)
+* Statistics
+	- [R](http://cran.r-project.org/mirrors.html)
+	- [R Studio](https://rstudio.com/products/rstudio/download/)
 * Miscellaneous
 	- [iTunes](https://www.apple.com/la/itunes/)
 
