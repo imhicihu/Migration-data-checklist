@@ -1,4 +1,4 @@
-## Software to install (pc counterpart)
+## Software to install (mostly Microsoft Windows® environment)
 * Backup
 	- [Duplicati](https://www.duplicati.com/): backup software with multiple options: schedule tasks, data encryption, etc.
 * Windows cleaning
@@ -7,6 +7,9 @@
 	- [Defraggler](https://www.ccleaner.com/defraggler)
 * Recover deleted files
 	- [Recuva](https://www.ccleaner.com/recuva)
+* Hard disk cloner
+	- [Cloneapp](http://www.mirinsoft.com/download/category/2-cloneapp): backs up Application Settings of Windows programs
+	- [CloneApp UA](http://www.mirinsoft.com/download/category/13-ca-ua): backs up Application Settings of Universal apps (UWP) 
 * Virtual drive
 	- [Daemon Tools _lite_](https://www.daemon-tools.cc/products/dtLite): virtual disc drive
 * Compressors
@@ -72,6 +75,7 @@
 	- [Blender](https://www.blender.org)
 * 3d file viewer
 	- [Clay-viewer](https://github.com/pissang/clay-viewer/releases)
+	- [3DEM](http://www.hangsim.com/files/3dem_setup.exe)
 * Image enhancer & editor
 	- [Dstretch](http://www.dstretch.com)
 	- [GIMP](https://www.gimp.org/)
@@ -92,6 +96,8 @@
 * Data validator 
 	- [DataProofer](https://github.com/dataproofer/Dataproofer/releases)
 	- [Talent open studio for data quality](https://www.talend.com/products/data-quality/data-quality-open-studio/)
+* Hash validators
+	- [md5-app](https://github.com/mhmdkrmabd/md5-app/releases)
 * Statistics
 	- [R](http://cran.r-project.org/mirrors.html)
 	- [R Studio](https://rstudio.com/products/rstudio/download/)
