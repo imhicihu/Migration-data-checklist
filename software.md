@@ -77,6 +77,7 @@
 * 3D editing
 	- [Meshlab](http://www.meshlab.net)
 	- [Blender](https://www.blender.org)
+	- [Cloud Compare](http://www.cloudcompare.org/release/index.html)
 * 3d file viewer
 	- [Clay-viewer](https://github.com/pissang/clay-viewer/releases)
 	- [3DEM](http://www.hangsim.com/files/3dem_setup.exe)
@@ -105,6 +106,7 @@
 * Data validator 
 	- [DataProofer](https://github.com/dataproofer/Dataproofer/releases)
 	- [Talent open studio for data quality](https://www.talend.com/products/data-quality/data-quality-open-studio/)
+	- [OpenRefine](http://openrefine.org/download.html)
 * Hash validators
 	- [md5-app](https://github.com/mhmdkrmabd/md5-app/releases)
 * Statistics
@@ -123,7 +125,6 @@
 	- [Microsoft .NET Framework 4.5](https://www.microsoft.com/es-ar/download/details.aspx?id=30653)
 	- [USB safely remove](https://quickandeasysoftware.net/downloads?download=USBDiskEjector1.3.0.6.zip&progname=USB+Disk+Ejector)
 	- [File renamer](http://www.joejoesoft.com/vcms/108/)
-
 	
 ## Notes ##
 * Always, the preferred versions are those labeled as [x64](https://en.wikipedia.org/wiki/64-bit_computing)
