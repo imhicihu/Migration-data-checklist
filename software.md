@@ -20,6 +20,8 @@
 	- [Speccy](https://www.ccleaner.com/speccy): data collected about hardware
 * Video viewer
 	- [VLC](http://www.videolan.org)
+* Video codecs
+	- [K-Lite Codec Pack](https://codecguide.com/download_kl.htm)
 * RAW viewer
 	- [Filmulator](https://github.com/CarVac/filmulator-gui/releases)	
 * Cloud hosting
@@ -83,6 +85,8 @@
 * Data validator 
 	- [DataProofer](https://github.com/dataproofer/Dataproofer/releases)
 	- [Talent open studio for data quality](https://www.talend.com/products/data-quality/data-quality-open-studio/)
+* Miscellaneous
+	- [iTunes](https://www.apple.com/la/itunes/)
 
 	
 ## Notes ##
