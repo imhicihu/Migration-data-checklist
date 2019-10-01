@@ -51,6 +51,10 @@
 	- [LibreOffice](https://www.libreoffice.org/download/download/)
 * Text converter
 	- [Pandoc](https://pandoc.org/installing.html): universal text converter
+* Rich text editor
+	- [Texts](http://www.texts.io/Texts-1.5.msi)
+* Ebook manager (plus metadata editor)
+	- [Calibre](https://calibre-ebook.com/download)
 * PDF virtual printer
 	- [doPDF](https://www.dopdf.com/download.html)
 	- [PDFCreator](https://www.pdfforge.org/pdfcreator/download)
@@ -96,6 +100,8 @@
 	- [Wireshark](https://www.wireshark.org/#download)
 * Bibliography searcher
 	- [ScienceFair](http://sciencefair-app.com/)
+* Virtual server environment
+	- [WampServer](http://www.wampserver.com/en/#download-wrapper)
 * Data validator 
 	- [DataProofer](https://github.com/dataproofer/Dataproofer/releases)
 	- [Talent open studio for data quality](https://www.talend.com/products/data-quality/data-quality-open-studio/)
@@ -116,7 +122,7 @@
 	- [Java](https://www.java.com/es/download/)
 	- [Microsoft .NET Framework 4.5](https://www.microsoft.com/es-ar/download/details.aspx?id=30653)
 	- [USB safely remove](https://quickandeasysoftware.net/downloads?download=USBDiskEjector1.3.0.6.zip&progname=USB+Disk+Ejector)
-
+	- [File renamer](http://www.joejoesoft.com/vcms/108/)
 
 	
 ## Notes ##
