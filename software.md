@@ -91,6 +91,7 @@
 	- [ImageMagick](https://imagemagick.org/script/download.php#windows)
 	- [Dark Table](https://www.darktable.org/install/#windows): image treatment, enhancer in a non destructive way
 	- [DigiKam](https://www.digikam.org/download/): photo management
+	- [ImageJ](https://imagej.nih.gov/ij/): Java-based image editing
 * Document management
 	- [PaperWork](https://openpaper.work/en-us/)
 * Digital notebook / Note taking
