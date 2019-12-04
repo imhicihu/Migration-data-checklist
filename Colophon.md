@@ -16,7 +16,7 @@
      - [ImgBurn](http://www.imgburn.com/): CD/DVD/DVD/Blu-ray burning application
      - [IsoCreator](https://sourceforge.net/projects/iso-creator-cs/): creates ISO 9660 Joliet images
      - [Rufus](https://rufus.ie/): bootable USB drives (in case of *worst* scenario as possible)
-     - [Hiren’s BootCD](https://www.hirensbootcd.org/): Boot disk
+     - [Hirens BootCD](https://www.hirensbootcd.org/): Boot disk
      - [CloneApp](http://www.mirinsoft.com/index.php/download/viewdownload/39-cloneapp/180-cloneapp-portable): hard disk cloner
      - [Hard disk benchmark](https://hdd.userbenchmark.com/Software): benchmarking hard disk drives
      - Install/uninstall automatization of chains of software
