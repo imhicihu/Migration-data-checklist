@@ -1,5 +1,5 @@
-# Procedures (for internal use)
-* Foresee the worst scenario (vide *Worst scenario* section below) as possible (main & target computer)
+### Procedures (for internal use)
+* Foresee the worst scenario (_vide_ *Worst scenario* section below) as possible (main & target computer)
 * Verify technical status of every device that will be part of the backup process: hard disk, blu-ray recorder, dvd recorder, pen-drive.
 * Verify portable hard disk drive free space. Then, check if that capacity meets the space needed the backup planned. 
 * Verify that any device selected for backup purposes is being formatted in the `NTFS` format
@@ -11,9 +11,9 @@
 * Turn `off` the access to internet: 
      - turn `off` wifi connection 
      - detach any LAN access 
-* Verify the health of the disk drive, then defrag it. Both actions can be done with [Defragler](https://www.ccleaner.com/defraggler)
-* Verify the health of the external hard disk, then defrag it. Both actions can be done with [Defragler](https://www.ccleaner.com/defraggler)
-* Verify the health of the pen drive, then defrag it. Both actions can be done with [Defragler](https://www.ccleaner.com/defraggler)
+* Verify the health of the disk drive, then defrag it. Both actions can be done with [Defraggler](https://www.ccleaner.com/defraggler)
+* Verify the health of the external hard disk, then defrag it. Both actions can be done with [Defraggler](https://www.ccleaner.com/defraggler)
+* Verify the health of the pen drive, then defrag it. Both actions can be done with [Defraggler](https://www.ccleaner.com/defraggler)
 * Update to the latest definitions of the antivirus resident on the (primary) computer
 * Do a full scan with the antivirus on the operating system, files, _etc_. The same goes for the hard disk or pen drive
     - If there are _virus_: notify it!
@@ -30,20 +30,20 @@
 * Install backup software to migrate between both operating systems or computers
 * Verify software compatibility between different operating systems, with a _focus_ between 32 vs 64 bits systems. So, some older software demands only 32 bits environments. So, an option is create a some-kind-of custom [Docker image](https://www.howtoforge.com/tutorial/building-and-publishing-custom-docker-images/) or some kind of _sandboxed_ virtual environment: [VirtualBox](https://www.virtualbox.org/), [Vagrant](https://www.vagrantup.com/), [Windows XP Mode](https://www.microsoft.com/en-us/download/details.aspx?id=8002), etc.
 * Verify compatibility between file structure according operating systems's
-* Verify that your email application don't get files corrupted. Then, [apply this procedures](https://bitbucket.org/imhicihu/migration-data-checklist/src/master/outlook.md) to backup your email account(s)
+* Verify that your email application don't get files corrupted. Then, [apply this procedures](outlook.md) to backup your email account(s)
 * Verify hard drive format status: `NTFS` or `FAT32`
-* Create `.ISO` images for any folder(s) that is *mandatory* to maintain the framework of folders (_ie._ folders nested inside another folders). In a nutsell, create full _mirror_ images of folders and files (even with _hidden_ attributes)
+* Create `.ISO` images for any folder(s) that is *mandatory* to maintain the framework of folders (_ie._ folders nested inside another folders). In a nutshell, create full _mirror_ images of folders and files (even with _hidden_ attributes)
 * Along the process of making iso images in Windows environments, some warns will be shown:
     - maximum filename length in NTFS formatted hard drives (Windows XP and Windows Vista): 260 characters as it fullest. See this [Microsoft Report](https://docs.microsoft.com/en-us/dotnet/api/system.io.pathtoolongexception?redirectedfrom=MSDN&view=netframework-4.8).
-    - In Windows 10, the maximum filename length can be overriden it offers an option to ignore the `MAX_PATH` issue by overriding a group policy entry enabling NTFS long paths under `Computer Configuration` -> `Admin Templates` -> `System` -> `FileSystem:`
+    - In Windows 10, the maximum filename length can be overridden it offers an option to ignore the `MAX_PATH` issue by overriding a group policy entry enabling NTFS long paths under `Computer Configuration` -> `Admin Templates` -> `System` -> `FileSystem:`
     - maximum path length limitation on Windows is [260 characters](https://docs.microsoft.com/en-us/windows/desktop/FileIO/naming-a-file)
-    - ![nested_folders.png](https://bitbucket.org/repo/jgXpxpx/images/2171080336-nested_folders.png)
-* Backup to a "healthy" external disk drive, pendrives, dvd or blu-ray discs
+    ![nested_folders.png](images/2171080336-nested_folders.png)
+* Backup to a "healthy" external disk drive, pen-drives, dvd or blu-ray discs
 * Backup custom settings (if it it possible) for those software that is *mandatory* to run in the target computer
 
-## Worst-scenario
+### Worst-scenario
 * Boot from `Hirens BootCD`. Then launch the `Mini-XP` option or the various backup tools built-in
 
-# Legal:
+### Legal:
 * All other trademarks are the property of their respective owners.
 * Windows, Windows 10, Windows XP, Windows Vista are registered trademark of Microsoft Corporation in the United States and/or other countries.
