@@ -6,8 +6,6 @@ Este documento describe el o los fundamentos, tanto más los pasos necesarios pa
 
 * Breve resumen
     - 
-* Versión 1.00
-    -
 
 ### ¿Cómo se configura? ###
 
@@ -24,7 +22,7 @@ Este documento describe el o los fundamentos, tanto más los pasos necesarios pa
 * Instrucciones de implementación
     - 
 
-### Lineamientos de contribuciones ###
+### Lineamientos de contribuciones
 
 * Pruebas de escritura
     - 
@@ -33,17 +31,15 @@ Este documento describe el o los fundamentos, tanto más los pasos necesarios pa
 * Otras guías
     -
 
-### ¿Cómo puede contactarnos? ###
+### ¿Cómo puede contactarnos?
 
 * Administrador del repositorio
     - Contáctese con `imhicihu` arroba `gmail` punto `com`
-* Otras formas de contacto
-    - Contáctese con nuestro `Board`. En la sección `Proposals - Propuestas` podrá compartir sus inquietudes.
     
-## Legales ##
+### Legales
 
 * Todas las marcas registradas son propiedad de sus respectivos propietarios
 
-### Licencia ###
+### Licencia
 
 * El contenido de este proyecto está bajo una licencia 
