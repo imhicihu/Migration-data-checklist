@@ -1,4 +1,4 @@
-## Technical requirements ##
+### Technical requirements
 
 * Hardware
     - portable hard disk
@@ -25,6 +25,6 @@
          - [MD5](https://github.com/mhmdkrmabd/md5-app/releases): creates and verifies an MD5 hash value for file(s) on Windows environments
          - [Hashmaker](https://itunes.apple.com/us/app/hashmaker/id509733654?mt=12): creates and verifies an MD5 hash value for file(s) on MacOSX environments
 
-## Legal ##
+### Legal
 
 * All trademarks are the property of their respective owners.
