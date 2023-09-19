@@ -116,7 +116,6 @@
 	- [GeoViewer](https://www.extensis.com/download-geoviewer): Display raster imagery, LiDAR point clouds, vector overlays, and MrSID files
 * Miscellaneous
 	- [iTunes](https://www.apple.com/la/itunes/)
-	- [Adobe Flash player](https://get.adobe.com/es/flashplayer/)
 	- [Rufus](https://rufus.ie/): create bootable usb drives
 	- [File Optimizer](https://sourceforge.net/projects/nikkhokkho/files/latest/download)
 	- [Java](https://www.java.com/es/download/)
