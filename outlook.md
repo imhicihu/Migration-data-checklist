@@ -1,4 +1,4 @@
-## Exporting procedures
+### Exporting procedures
 * Verify know the password associated with email accounts
 * Click `Start`, then go to `Run` and type `Control panel` and click `OK`. This action opens the Control panel window
 * Click on `User Accounts`
@@ -9,7 +9,7 @@
 * To locate all the `pst` files, open Windows's `File Manager` or `My Computer` and paste the path in the location bar and press `Enter`. You will find all the `PST` files to be backed
 * Copy and paste from one pc to another pc, portable hard drive, pen drive, dvd or blu-ray disc
 
-## Importing procedures
+### Importing procedures
 * Launch MS Outlook application. Go to the `File` tab and click `Open & Export` > `Import/Export`
 * In the `Import and Export Wizard`, click on `Import from another program or file`, and hit `Next`
 * Now select Outlook data file (`.pst`) and click `Next`
