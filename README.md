@@ -1,60 +1,44 @@
-![stability-wip](https://bitbucket.org/repo/ekyaeEE/images/3847436881-internal_use_stable.png)
+
 ![status-archived](https://bitbucket.org/repo/ekyaeEE/images/3278295154-status_archived.png)
+![stability-wip](https://bitbucket.org/repo/ekyaeEE/images/3847436881-internal_use_stable.png)
 ![issues-closed](https://bitbucket.org/repo/ekyaeEE/images/1555006384-issues_closed.png)
 
-# Rationale #
+# Rationale
 
-### Migration data (checklist) ###
+### Migration data (checklist)
 
-* Good practices on migrate data between devices or hosts. A kind of "good practices" to automatize procedures and quick-actions
-* This repository just hold our datums gathered, checklist _et alia_ and begin and end if fulfill our needs, priorities and standards. Anyway, *one caveat*: "There is no responsability for data loss".
-![dualbrowser](https://bitbucket.org/repo/jgXpxpx/images/3083540165-dual_browser.jpg)
+* Good practices on migrate data between devices or hosts. A kind of "good practices" to automatise procedures and quick-actions
+* This repository just hold our datums gathered, checklist _et alia_ and begin and end if fulfil our needs, priorities and standards. Anyway, *one caveat*: "There is no responsibility for data loss".
+![dualbrowser](images/3083540165-dual_browser.jpg)
 
-### What is this repository for? ###
+### What is this repository for?
 
 * Quick summary
     - Checklist to migrate data between operating systems and/or between devices
-* Version 1.01
 
-### How do I get set up? ###
+### How do I get set up?
 
 * Summary of set up
-    - Check [Checklist.md](https://bitbucket.org/imhicihu/migration-data-checklist/src/master/Checklist.md)
-    - Check [Software.md](https://bitbucket.org/imhicihu/migration-data-checklist/src/master/software.md)
+    - Check [Checklist.md](Checklist.md)
+    - Check [Software.md](software.md)
 * Configuration
-    - Check [Colophon.md](https://bitbucket.org/imhicihu/migration-data-checklist/src/master/Colophon.md)
+    - Check [Colophon.md](Colophon.md)
 * Deployment instructions
-    - Once checked [Checklist.md](https://bitbucket.org/imhicihu/migration-data-checklist/src/master/Checklist.md) deploy your strategy according your hardware, time, schedule, goals. Creativity and knowledge meets at this point to _solve_ this dilemma. 
+    - Once checked [Checklist.md](Checklist.md) deploy your strategy according your hardware, time, schedule, goals. Creativity and knowledge meets at this point to _solve_ this dilemma
 
-### Related repositories ###
-
-* Some repositories linked with this project:
-     - [Focus Group (2016)](https://bitbucket.org/imhicihu/focus-group-2016/src/default/)
-     - [Migration data between different MacOS environments (Checklist)](https://bitbucket.org/imhicihu/migration-data-between-different-macos-environments-checklist/src/master/)
-     
-### Issues ###
-
-* Check them on [here](https://bitbucket.org/imhicihu/migration-data-checklist/issues)
-
-### Changelog ###
-
-* Please check the [Commits](https://bitbucket.org/imhicihu/migration-data-checklist/commits/) section for the current status
-
-### Who do I talk to? ###
+### Who do I talk to? 
 
 * Repo owner or admin
     - Contact `imhicihu` at `gmail` dot `com`
-* Other community or team contact
-    - Contact is _enable_ on the [board](https://bitbucket.org/imhicihu/migration-data-checklist/addon/trello/trello-board) of this repo. (You need a [Trello](https://trello.com/) account)
 
 ### Code of Conduct
 
-* Please, check our [Code of Conduct](https://bitbucket.org/imhicihu/migration-data-checklist/src/master/code_of_conduct.md)
+* Please, check our [Code of Conduct](code_of_conduct.md)
 
-## Legal ##
+### Legal
 
 * All trademarks are the property of their respective owners.
 
-### Licence ###
+### Licence
 
-* The content of this project itself is licensed under the ![MIT Licence](https://bitbucket.org/repo/ekyaeEE/images/2049852260-MIT-license-green.png)
+* The content of this project itself is licensed under the ![MIT Licence](images/2049852260-MIT-license-green.png)
