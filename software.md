@@ -1,4 +1,4 @@
-## Software to install (mostly Microsoft Windows® environment)
+### Software to install (mostly for Microsoft Windows environment)
 * Backup
 	- [Duplicati](https://www.duplicati.com/): backup software with multiple options: schedule tasks, data encryption, etc.
 	- [Google Backup and sync](https://www.google.com/drive/download/backup-and-sync/)
@@ -32,8 +32,6 @@
 	- [VLC](http://www.videolan.org)
 * Video codecs
 	- [K-Lite Codec Pack](https://codecguide.com/download_kl.htm)
-* RAW viewer
-	- [Filmulator](https://github.com/CarVac/filmulator-gui/releases)	
 * Cloud hosting
 	- [Dropbox](https://dropbox.com/): cloud hosting
 * Browsers
@@ -45,14 +43,6 @@
 	- [Oracle VirtualBox](https://www.virtualbox.org): virtualization of operating systems, _et. al._
 	- [Virtualbox extension pack](https://www.virtualbox.org/wiki/Downloads)
 	- [Windows XP Mode for Windows 7](https://www.microsoft.com/es-ar/download/details.aspx?id=8002): virtual Windows XP on Windows 7
-* Android emulators
-	- [BlueStacks](https://www.bluestacks.com/bluestacks-android-n.html): android emulator
-	- [GenyMotion](https://www.genymotion.com/desktop/): android emulator
-* GIS & maps
-	- [QGIS](https://qgis.org/en/site/)
-	- [Google Earth](https://www.google.com/intl/es-419_ALL/earth/versions/#earth-pro)
-* Office automation
-	- [LibreOffice](https://www.libreoffice.org/download/download/)
 * Text converter
 	- [Pandoc](https://pandoc.org/installing.html): universal text converter
 * Rich text editor
@@ -137,9 +127,9 @@
 	- [Dependency walker](http://www.dependencywalker.com/)
 	- [The PC Decrapifier](https://www.pcdecrapifier.com/)
 	
-## Notes ##
+### Notes
 * Always, the preferred versions are those labeled as [x64](https://en.wikipedia.org/wiki/64-bit_computing)
 
-## Legal ##
+### Legal
 
 * All trademarks are the property of their respective owners.
